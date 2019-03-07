@@ -1,0 +1,17 @@
+Flask==0.10.1
+future==0.16.0
+requests==2.11.1
+appdirs==1.4.0
+Flask-Jsonpify==1.5.0
+Flask-RESTful==0.3.5
+packaging==16.8
+pyparsing==2.1.10
+python-dateutil==2.6.0
+Flask-Cors==3.0.3
+scikit-learn==0.19.1
+numpy==1.14.0
+scipy==1.0.0
+lxml==4.1.1
+mysql-conector==2.1.6
+
+
